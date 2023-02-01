@@ -1,2 +1,2 @@
 # Report-MarvelSnap
-All code used help create the Marvel Snap Data Report
+Power BI report using my own Marvel Snap game metrics.
